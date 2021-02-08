@@ -1,0 +1,3 @@
+Sensor1 PCB is sensor ring manual solder solution
+
+Sensor2 PCB is sensor ring contract via Conductive foam solution
